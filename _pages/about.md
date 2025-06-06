@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## About Me
 
-My name is Yihan Wang, and I am currently a PhD candidate in the School of Civil Engineering and Environmental Science at the University of Oklahoma. My research interests center on the development and application of phyiscs-aware deep learning (DL) models for hydrologic modeling and forecasting. By combining physical principles with data-driven methods, I aim to improve the robustness, transparency, and interpretability of DL applications in hydrology. My broader goal is to help advance the use of artificial intelligence in water resources research and management.
+My name is Yihan Wang (王艺晗), and I am currently a PhD candidate in the School of Civil Engineering and Environmental Science at the University of Oklahoma. My research interests center on the development and application of phyiscs-aware deep learning (DL) models for hydrologic modeling and forecasting. By combining physical principles with data-driven methods, I aim to improve the robustness, transparency, and interpretability of DL applications in hydrology. My broader goal is to help advance the use of artificial intelligence in water resources research and management.
 
 ## News
 - June–August 2025: I will be interning at at the DD-Scientific Data Division at Lawrence Berkeley National Laboratory. Excited for this opportunity!
